@@ -1,10 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.hjoza_tapp">
+    package="com.hjozat">
 
     <uses-permission android:name="android.permission.INTERNET"/>
 
    <application
-        android:label="bus365"
+        android:label=" حجوزات"
         android:name="${applicationName}"
        android:usesCleartextTraffic="true"
         android:icon="@mipmap/launcher_icon">
